@@ -1,0 +1,108 @@
+.mainC{
+display: flex;
+flex-direction: row;
+width: 375px;
+}
+.contC{
+ width: 100%;
+}
+.contC1{
+    color: white;
+    font-style: normal;
+    font-family: 'Muli-Bold', Helvetica;
+    font-weight: 700;
+    margin-left: 6%;
+    font-size: 15px;
+}
+.img1C{
+  width: .6rem;
+  margin-left: 6%;
+}
+.img2C{
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    height: 40%;
+}
+.bodyC{
+    width: 100%;
+   background-color: white;
+   border-top-left-radius: 1rem;
+   border-top-right-radius: 1rem;
+   margin-top: 30%;
+   padding-top: 4%;
+}
+.bodyC1{
+    text-align: center;
+  
+    font-family: 'Muli-Bold', Helvetica;
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 4%;
+    font-style: normal;
+}
+.bodyC2{
+   text-align: center;
+    font-family: 'Muli-Regular', Helvetica;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 7%;
+    width: 85%;
+    font-size: 15px;
+}
+.inputEle{
+    width: 90%;
+    margin-left: 5%;
+  
+}
+.inputEle input{
+    width: 90%;
+    margin-left: 3%;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    margin-bottom: 2%;
+    background-color: #F2F2F4;
+    opacity: .7;
+    border-color: #707070;
+    border-style: solid;
+    border-width: .1rem;
+    padding-left: .5rem;
+    border-radius: .3rem;
+    background-color:#F2F2F4;
+}
+.inputEle textarea{
+    width: 90%;
+    margin-top: 2%;
+    margin-left: 3%;
+    border-radius: .3rem;
+    background-color: #F2F2F4;
+        opacity: .7;
+    border-color: #707070;
+    border-style: solid;
+    border-width: .1rem;
+    padding-left: .5rem;
+}
+.buttonC{
+  background-color: #007e69;
+  width: 84%;
+  box-shadow: .1rem .2rem .5rem #F2F2F4;
+  border-color:transparent;
+    border-style: solid;
+    border-width: .1rem;
+  border-radius: .2rem;
+  display: flex;
+  align-items: center;
+  font-family: 'Muli-Bold', Helvetica;
+  font-weight: 700;
+  font-size: 18px;
+  color: white;
+  padding: .3rem;
+  margin-top: 4%;
+  font-style: normal;
+  margin-left: 8%;
+  justify-content: center;
+}
+.buttonC img{
+ width: 10%;
+ margin-right: 4%;
+}

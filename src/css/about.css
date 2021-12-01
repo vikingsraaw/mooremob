@@ -1,0 +1,154 @@
+.mainAbout{
+    display: flex;
+    flex-direction: row;
+    width: 375px;
+}
+.cont1Ab{
+    background-color: #F7F7F7;
+    padding-bottom: 1rem;
+
+}
+.img1Ab{
+   width: 1rem;
+   margin-left: 6%;
+   margin-top: 8%;
+}
+.cont-1Ab{
+  font-family: 'Muli-Bold', Helvetica;
+  font-weight: 700;
+  font-size: 16px;
+  margin-top: 1%;
+  margin-bottom: 2%;
+  margin-left: 6%;
+
+}
+.cont-2Ab{
+  background-color: white;
+  margin-right: 15%;
+  display: flex;
+  margin-left: 15%;
+
+  justify-content: center;
+  align-items: center;
+  
+  
+}
+.cont-2Ab img{
+ width: 15%;
+ height: 20%;
+ margin-top: 2rem;
+ margin-bottom: 2rem;
+
+}
+.bodyAb{
+    text-align: left;
+}
+.bodyAb1{
+    font-family: 'Muli-Bold', Helvetica;
+    font-weight: 700;
+    font-size: 18px;
+    font-style: normal;
+    margin-top: 2%;
+    margin-left: 6%;
+}
+.paraAb1{
+    font-family: 'Muli-Regular', Helvetica;
+    font-weight: 400;
+    font-size: 15px;
+    letter-spacing: 0.07px;
+    font-style: normal;
+    line-height: 1.1rem;
+    margin-top: 2%;
+    width: 80%;
+    margin-left: 6%;
+}
+.bodyAb2{
+    display: flex;
+    align-items: center;
+}
+.bodyAb2 img{
+    height: 50%;
+    width: 40%;
+}
+.bodyAb-2{
+    width: 53%;
+    margin-right: 5%
+}
+.spanAb1{
+    font-family: 'Muli-Bold', Helvetica;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 600;;
+
+}
+.spanAb2{
+    font-family: 'Muli-Bold', Helvetica;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 600;;
+    color: #007e69;
+
+
+}
+.paraAb2{
+    font-family: 'Muli-Regular', Helvetica;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.05px;
+    line-height: 1rem;
+}
+.bodyAb3{
+    display: flex;
+    flex-wrap: wrap;
+}
+.bodyAb3-1{
+    text-align: center;
+    width: 30%;
+}
+.bodyAb3-1 img{
+     width: 90%;
+}
+.bodyAb6{
+    display: flex;
+    text-align: center;
+
+   
+}
+.bodyAb6-1{
+ width: 35%;
+}
+.bodyAb6-1 img{
+  width: 70%;
+}
+.pAb3{
+    font-family: 'Muli-Bold', Helvetica;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 600;
+    margin-top: -4%;
+}
+.pAb4{
+    font-family: 'Muli-Regular', Helvetica;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;;
+    color: #007e69;
+    margin-top: -4%;
+}
+.pAb5{
+    font-family: 'Muli-Bold', Helvetica;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 600;
+    margin-top: -4%;
+
+}
+.pAb6{
+    font-family: 'Muli-Regular', Helvetica;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;;
+    color: #007e69;
+    margin-top: -4%;
+}

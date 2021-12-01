@@ -1,0 +1,136 @@
+.mainWhat{
+    display: flex;
+ flex-direction: row;
+ width: 100%;
+ justify-content: center;
+}
+.contWhat{
+    cursor: pointer;
+    position: relative;
+    
+   
+
+}
+
+.bodyCont{
+  text-align: left;
+  border-top-right-radius: 1rem;
+  border-top-left-radius: 1rem;
+  background-color: white;
+}
+.contH1{
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    margin-left: 8%;
+    letter-spacing: 0.00px;
+    line-height: 32px;
+    color: black;
+    white-space: nowrap;
+    
+    font-family: "Muli-Bold", Helvetica;
+
+}
+.contP1{
+    
+    font-style: normal;
+    margin-right: 8%;
+    font-weight: 400;
+    letter-spacing: 0.08px;
+    margin-left: 8%;
+    width: 80%;
+    line-height: 1.2rem;
+    font-size: .8rem;
+    
+    color: black;
+    font-family: "Muli-Regular", Helvetica;
+}
+.cont2W{
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+}
+.whereButton{
+    border-radius: .5rem;
+    padding:.4rem ;
+    align-self: center;
+    margin-right: 6%;
+    border-width: .08rem;
+    border-color: #007e69;
+    font-size: .8rem;
+    font-weight: 700;
+    border-style: solid;
+    box-shadow: .2rem .4rem .2rem lightgray;
+    color: #007e69;
+    font-family: "Muli-Bold",Helvetica;
+}
+.img2What{
+    width: 100%;
+    margin-top: 5%;
+}
+.cont3W{
+    font-family: "Muli-Bold",Helvetica;
+    font-weight: 700;
+    margin-left: 8%;
+    font-size: .8rem;
+    display: flex;
+    align-items: center
+
+}
+.addW{
+    margin-left: 5%;
+    background-color:#007e69;
+    font-size: 1.2rem;
+    font-family: "Muli-Regular",Helvetica;
+    font-weight: 400;
+    padding-top: .2rem;
+    color: white;
+    padding-bottom: .2rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    border-radius: 50%;
+
+}
+.cont4W{
+    font-family: "Muli-Regular",Helvetica;
+    font-weight: 400;
+    margin-left: 8%;
+    border-radius: .5rem;
+    width: 75%;
+    box-shadow: .2rem .4rem .8rem #00000029;
+    margin-bottom: 10%;
+    padding-left: .4rem;
+    padding-right: .4rem;
+    line-height: .8rem;
+    letter-spacing: 0.07px;
+    border-width: 0.1rem;
+    border-color: #007e69;
+    border-style: solid;
+    font-size: .7rem;
+
+
+
+}
+.cont4W p{
+    margin-left: .2rem;
+    margin-right: .2rem;
+}
+
+.cont5W{
+    font-family: "Muli-Bold",Helvetica;
+    font-weight: 700;   
+     margin-left: 8%;
+     font-size: .8rem;
+
+
+
+}
+.para2W{
+    font-family: "Muli-Regular",Helvetica;
+    font-weight: 400;
+    width: 80%;
+    margin-left: 8%;
+    font-size: .7rem;
+    margin-bottom: 10%;
+
+}

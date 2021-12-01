@@ -1,0 +1,119 @@
+.mainWarranty{
+    display: flex;
+    flex-direction: row;
+    width: 375px;
+
+}
+.contWar{
+    text-align: left;
+    width: 100%;
+
+}
+.cont1War{
+    font-style: normal;
+    font-family: 'Muli-Bold', Helvetica;
+    font-weight: 700;
+    font-size: .9rem;
+    margin-left: 6%;
+    margin-top: 2%;
+}
+.bodyContWar{
+   width: 100%;
+   background-color: white;
+   border-top-left-radius: 1rem;
+   border-top-right-radius: 1rem;
+   margin-top: 40%;
+   padding-top: 4%;
+}
+.para1War{
+    background-color: transparent;
+    font-family: 'Muli-Regular', Helvetica;
+    font-weight: 400;
+    width: 85%;
+    line-height: 1rem;
+    font-size: .8rem;
+
+    margin-left: 6%;
+   
+}
+.cont2War{
+  margin-left: 6%;
+  font-family: 'Muli-Bold', Helvetica;
+  font-weight: 700;
+  font-size: 1rem;
+  margin-top: 8%;
+}
+.cont3War{
+  display: flex;
+  margin-left: 4%;
+  background-color: transparent;
+  font-family: 'Muli-Regular', Helvetica;
+  font-weight: 500;
+  padding-right: 2%;
+  align-items: center;
+  font-size: .8rem;
+  margin-top: .5rem;
+}
+.cont3War img{
+    height: 2rem;
+    width: 4rem;
+    margin-right: 3%;
+
+}
+.cont3War p{
+    width: 70%;
+}
+
+.dropdown{
+    background-color:white;
+   display: flex;
+   text-align: center;
+   align-content: center;
+   align-items: center;
+   font-style: normal;
+   font-family: "Muli-Bold", Helvetica;
+   font-weight: 700;
+   color: #007e69;
+   font-size: .9rem;
+   border-radius: .5rem;
+   width: 40%;
+   justify-content: space-between;
+   margin-left: 30%;
+   padding: .3rem .5rem;
+  box-shadow: .3rem .3rem .5rem lightgray;
+}
+
+.dropdown img{
+    height: 10%;
+    border-radius: 50%;
+    width:  10%;
+  
+}
+.dropdown2{
+    background: transparent;
+    height: 4rem;
+    overflow-y: auto;
+    width: 40%;
+    margin-left: 30%;
+    scrollbar-width: none;
+    align-items: center;
+    align-content: center;
+}
+.dropdown2::-webkit-scrollbar{
+    width: 0;
+    background-color: transparent;
+}
+.drop2item{
+    margin-left: 1rem;
+    cursor: pointer;
+    font-family: "Muli-Regular", Helvetica ;
+    font-weight: 400;
+    align-items: center;
+    font-size: .8rem;
+    align-content: center;
+    display: flex;
+    color: #007e69;
+    
+    scrollbar-width: none;
+    margin-top: .5rem;
+}

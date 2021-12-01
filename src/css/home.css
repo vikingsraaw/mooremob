@@ -1,0 +1,195 @@
+.maimHome{
+ display: flex;
+ flex-direction: row;
+ width: 100%;
+ justify-content: center;
+ 
+}
+.cont{
+    cursor: pointer;
+    
+    position: relative;
+    width: 375px;
+
+}
+.h11{
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    height: auto;
+    
+    letter-spacing: 0.00px;
+    line-height: 32px;
+    text-align: center;
+ 
+    background-color: transparent;
+    color: black;
+    white-space: nowrap;
+    width: auto;
+    font-family: "Muli-Bold", Helvetica;
+}
+.p1{
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.00px;
+    line-height: 25px;
+    width: 84%;
+    text-align: center;
+    margin-left: 10%;
+    font-size: 16px;
+    
+    color: black;
+    font-family: "Muli-Regular", Helvetica;
+}
+.customHdiv{
+    font-size: 1.5rem;
+    margin-top: 4rem;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    font-family: "Muli-Regular",Helvetica;
+    background-color: transparent;
+    color: black;
+    
+}
+.img2{
+    background-color: transparent;
+    height: 303px;
+    left: -12px;
+    object-fit: cover;
+    position: absolute;
+    top: 611px;
+    width: 236px;
+}
+.img3{
+    background-color: transparent;
+    height: 288px;
+    left: 168px;
+    object-fit: cover;
+    position: absolute;
+    top: 648px;
+    width: 221px;
+}
+.img4{
+    background-color: transparent;
+    height: 288px;
+    left: -4px;
+    object-fit: cover;
+    position: absolute;
+    top: 874px;
+    width: 221px;
+
+}
+.img5{
+    background-color: transparent;
+    height: 288px;
+    left: 168px;
+    object-fit: cover;
+    position: absolute;
+    top: 892px;
+    width: 221px;
+}
+.aimg1{
+    background-color: transparent;
+    border-radius: 18px/18.5px;
+    height: 37px;
+    left: 130px;
+    object-fit: cover;
+    position: absolute;
+    top: 667px;
+    width: 36px;
+}
+.aimg2{
+    background-color: transparent;
+    border-radius: 18px/18.5px;
+    height: 37px;
+    left: 310px;
+    object-fit: cover;
+    position: absolute;
+    top: 690px;
+    width: 36px;
+}
+.aimg3{
+    background-color: transparent;
+    border-radius: 18px/18.5px;
+    height: 37px;
+    left: 130px;
+    object-fit: cover;
+    position: absolute;
+    top: 915px;
+    width: 36px;
+}
+.aimg4{
+    background-color: transparent;
+    border-radius: 18px/18.5px;
+    height: 37px;
+    left: 310px;
+    object-fit: cover;
+    position: absolute;
+    top: 944px;
+    width: 36px;
+}
+.dropCont{
+    color: #01463a;
+    font-weight: 700;
+    font-size: 1.2rem;
+    font-family:"Muli-Bold",Helvetica ;
+    display: flex;
+    border-radius: .8rem;
+    padding: .4rem;
+    align-items: center;
+    width: 70%;
+    margin-left: 15%;
+    box-shadow: .2rem .3rem .5rem lightgray;
+    margin-top: 2rem;
+}
+.dropCont img{
+  border-radius: 50%;
+  width: 1.5rem;
+  height: 1.51rem;
+  margin-left: 30%;
+}
+.whereCont{
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    color: black;
+    background-color: transparent;
+    font-family:"Muli-Regular",Helvetica ;
+    line-height: 2rem;
+    margin-top: 3rem;
+}
+.whoHCont{
+    text-align: center;
+    font-weight: 400;
+    margin-top: 5rem;
+    color: black;
+    font-size:1.7rem ;
+    font-family: "Muli-Regular",Helvetica;
+}
+.p2{
+    font-family: "Muli-Regular",Helvetica;
+    text-align: left;
+    font-size: 1rem;
+    letter-spacing: 0.01rem;
+    width: 80%;
+    margin-left: 10%;
+    line-height: 1.5rem;
+}
+.LButton{
+    font-family: "Muli-Regular",Helvetica;
+    text-align: center;
+    background-color: #007e69;
+    width: 30%;
+    padding: .4rem;
+    border-radius: .5rem;
+    margin-left: 35%;
+    margin-bottom: 5rem;
+}
+.LButton a{
+    color: white;
+    font-weight: 700;
+    font-family: "Muli-Bold", Helvetica;
+   text-decoration: none;
+}

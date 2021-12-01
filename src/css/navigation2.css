@@ -1,0 +1,20 @@
+.nav2{
+    display: flex;
+    background-color: white;
+    align-items: center;
+    width: 375px;
+}
+.navImg1{
+ width: 20%;
+ height: 20%;
+}
+
+.nav2Body{
+    display: flex;
+    flex-direction: column;
+}
+.navImg2{
+    width: 1rem;
+    height: .2rem;
+    margin-bottom: 1rem;
+}
