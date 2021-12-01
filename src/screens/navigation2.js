@@ -7,18 +7,18 @@ const Nav2=()=>{
      <>
      <div className='nav2'>
          <img className="navImg1" src={require('../img/moorup-dark-green--2--1@1x.png').default}/>
-         <ul style={{display:'flex',textDecoration:'none'}}>
-             <li style={{textDecoration:'none'}}>
+         <div className='navdiv1'>
+             <a href='#' className='navLi2'>
                 Partners
-             </li>
-             <li style={{textDecoration:'none'}}>
+             </a >
+             <a href='#' className='navLi2'>
                 Warranty
-             </li>
-         </ul>
+             </a>
+         </div>
          <div className='nav2Body'>
              <img className="navImg2" src={require('../img/line-1-1@1x.png').default}/>
-             <img className="navImg2" src={require('../img/line-2-1@1x.png').default}/>
-             <img className="navImg2" src={require('../img/line-3-1@1x.png').default}/>
+             <img className="navImg21" src={require('../img/line-2-1@1x.png').default}/>
+             <img className="navImg22" src={require('../img/line-3-1@1x.png').default}/>
 
 
          </div>
